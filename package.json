@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  },
+  "name": "mygulp_v.0.1",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brinchik/MyGulp_v.0.1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brinchik/MyGulp_v.0.1/issues"
+  },
+  "homepage": "https://github.com/brinchik/MyGulp_v.0.1#readme"
+}
