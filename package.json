@@ -5,9 +5,9 @@
   "name": "mygulp_v.0.1",
   "description": "",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "devDependencies": {
-    "del": "^7.0.0",
+    "del": "^6.1.1",
     "gulp": "^4.0.2",
     "sass": "^1.56.2"
   },
