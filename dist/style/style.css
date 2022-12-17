@@ -1,0 +1,12 @@
+body {
+  padding: 0;
+}
+body a {
+  color: red;
+}
+body p {
+  margin: 0;
+}
+body span {
+  border: 1px;
+}
