@@ -22,10 +22,9 @@ function clean() {
 function styles() {
     return gulp.src(paths.styles.src)
     .pipe(sass())
-    .pipe(gulp.dest(paths.styles.dest))
     .pipe(cleanCSS())
     .pipe(rename({
-        basename: 'style',
+        // basename: 'style',
         suffix: '.min'
     }))
     .pipe(gulp.dest(paths.styles.dest))
